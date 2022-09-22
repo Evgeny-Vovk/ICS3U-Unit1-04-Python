@@ -7,11 +7,11 @@
 
 def main():
 
-    print("The width of a square is 5 cm and the length is 9 cm.")
+    print("The width of a square is 5 cm and the length is 3 cm.")
 
-    print("The area of the square is {} cm².".format(5 * 9))
+    print("The area of the square is {} cm².".format(5 * 3))
 
-    print("The perimeter of the square is {} cm.".format(2 * (5 + 9)))
+    print("The perimeter of the square is {} cm.".format(2 * (5 + 3)))
 
     print("\nDone.")
 
