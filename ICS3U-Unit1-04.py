@@ -2,7 +2,7 @@
 #
 # Created by: Evgeny Vovk
 # Created on: September 2022
-# ICS3U-Unit1-03.py File, learning simple math in python
+# ICS3U-Unit1-04.py File, learning simple math in python
 
 
 def main():
